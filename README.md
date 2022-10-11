@@ -136,7 +136,7 @@ Mas claro que nem tudo são flores e podemos ter problemas no momento de executa
 
 ## Erro ao tentar conectar o daemon do docker
 
-![Error docker daemon]()
+![Error docker daemon](https://github.com/felipeamorim-dev/docker-wls2/blob/main/assets/error-daemon-docker.png)
 
 Das inumeras alternaivas para resolver o problemas disponíveis em fóruns na internet apenas uma realmente resolveu o problema. No caso especifico do Ubuntu 22.04 o pacote de iptables foi atualizado para uma versão mais recente e com isso essa atualização comprometeu endereçamento de ips para a conexção do daemon do docker.
 
