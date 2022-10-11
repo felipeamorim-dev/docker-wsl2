@@ -1,5 +1,7 @@
 # Tutorial de instalação do docker no wls 2 com Ubuntu 22.04
 
+![Wsl2](https://github.com/felipeamorim-dev/docker-wls2/blob/main/assets/wsl2.png)
+
 O processo de instalação do docker engine (nativo em sistemas linux) pode não ser muito familizar para os usuários de windows. E por esse motivo pode ocorre alguns empecílios. 
 
 Esse tutorial é para resolver alguns problemas que podem ocorrem na instalação do docker no ubuntu 22.04 para o wls 2 em computadores diversos, sobretudo, em computadores com restrinções de segurança utilizados muitas vezes nos ambientes corporativos.
@@ -38,7 +40,7 @@ Em uma nova guia do windows terminal com o powershell, execute o comando para ve
 wsl -l -v
 ```
 
-![Versão do wsl]()
+![Versão do wsl](https://github.com/felipeamorim-dev/docker-wls2/blob/main/assets/wsl-version.png)
 
 Caso a versão indicada seja a versão 1 utilize o seguinte comando para modificar a versão do wsl
 
